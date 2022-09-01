@@ -1,12 +1,12 @@
-## PHASE ONE INDEPENDENT PROJECT
+### PHASE ONE INDEPENDENT PROJECT
 
-## BY:SHEILAH NDIEMA
+### BY:SHEILAH NDIEMA
 
-## PROJECT DESCRIPTION
+### PROJECT DESCRIPTION
 
 The project is a recipe website that enables users to acess differnt recipes by searching the main ingredients of their choice. For example, you get a variety of chicken recepes by typing in chicken and so on. The project considers the below deliverables.
 
-## PROJECT SET UP INSTRUCTIONS
+### PROJECT SET UP INSTRUCTIONS
 
 1.A well documented Readme file on Github A project README that includes:
 
