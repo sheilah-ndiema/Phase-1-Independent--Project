@@ -16,3 +16,22 @@
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
+
+:root{
+    --primary-color:green;
+    --primary-color-dark:grey;
+}
+body{
+    font-weight: 300;
+    font-size: 1.05rem;
+    line-height: 1.6;
+    font-family: 'Poppins', sans-serif;
+}
+
+/*  */
+.btn{
+    font-family: inherit;
+    cursor: pointer;
+    outline: 0;
+    font-size: 1.05rem;
+}
