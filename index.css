@@ -93,3 +93,19 @@ body{
 .search-control::placeholder{
     color: var(--primary-color);
 }
+
+.search-btn{
+    width: 55px;
+    height: 55px;
+    font-size: 1.8rem;
+    background: var(--primary-color);
+    color: #fff;
+    border: none;
+    border-top-right-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    transition: all 0.4s linear;
+    -webkit-transition: all 0.4s linear;
+    -moz-transition: all 0.4s linear;
+    -ms-transition: all 0.4s linear;
+    -o-transition: all 0.4s linear;
+}
